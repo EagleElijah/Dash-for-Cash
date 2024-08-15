@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|d:\\illia\u0027s unity\\5-isu-illia\\casino game development\\assets\\scripts\\queenscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\queenscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\assets\\scripts\\dicescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dicescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\assets\\scripts\\coinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\assets\\scripts\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\assets\\scripts\\squarescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\squarescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\assets\\scripts\\kingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\assets\\scripts\\arrowscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\arrowscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\assets\\scripts\\gamemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0795E3-D2E8-EFFB-DB17-653175255E5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManagerScript.cs",
+              "DocumentMoniker": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\GameManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManagerScript.cs",
+              "ToolTip": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\GameManagerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManagerScript.cs",
+              "ViewState": "AQIAAOkAAACAAAAAAAAiwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:45:05.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArrowScript.cs",
+              "DocumentMoniker": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\ArrowScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ArrowScript.cs",
+              "ToolTip": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\ArrowScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ArrowScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:11:27.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KingScript.cs",
+              "DocumentMoniker": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\KingScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KingScript.cs",
+              "ToolTip": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\KingScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KingScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:30:25.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SquareScript.cs",
+              "DocumentMoniker": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\SquareScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SquareScript.cs",
+              "ToolTip": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\SquareScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SquareScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T17:52:18.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogicScript.cs",
+              "DocumentMoniker": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\LogicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LogicScript.cs",
+              "ToolTip": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\LogicScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LogicScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:04:06.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoinScript.cs",
+              "DocumentMoniker": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\CoinScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinScript.cs",
+              "ToolTip": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\CoinScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:37:25.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiceScript.cs",
+              "DocumentMoniker": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\DiceScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DiceScript.cs",
+              "ToolTip": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\DiceScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DiceScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:39:00.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueenScript.cs",
+              "DocumentMoniker": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\QueenScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QueenScript.cs",
+              "ToolTip": "D:\\Illia\u0027s Unity\\5-isu-illia\\Casino Game Development\\Assets\\Scripts\\QueenScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QueenScript.cs",
+              "ViewState": "AQIAAM8AAAAA1szMzMwmwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:30:37.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

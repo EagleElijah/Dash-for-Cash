@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c112cf6505360e24cb7b3ab9e8973dee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kingScript: {instanceID: 0}
+  - queenScript: {instanceID: 0}
+  - diceScript: {instanceID: 0}
+  - managerScript: {instanceID: 0}
+  - coinScript: {instanceID: 0}
+  - gameManagerScript: {instanceID: 0}
+  - pauseButton: {fileID: 5597411474817190926, guid: cdb8f88d0a73f5b4c88022f227b588a9, type: 3}
+  - greenSquareRenderer: {instanceID: 0}
+  - kingy: {instanceID: 0}
+  - queeny: {instanceID: 0}
+  - coinSource: {instanceID: 0}
+  - taDa: {instanceID: 0}
+  - quapQuap: {instanceID: 0}
+  - vacuUm: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
